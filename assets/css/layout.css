@@ -12,6 +12,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: "Open Sans","Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif;
+	font-weight: normal;
     -webkit-font-smoothing: antialiased;
 	-webkit-transition-delay: 0s;
 	-webkit-transition-duration: 0.1s;
@@ -31,7 +32,7 @@ h2, h3, h4, h5, h6 {
 
 a {
 	color: #3B5E9E;
-	font-weight: 700;
+	font-weight: normal;
 }
 
 a:hover {
@@ -46,7 +47,7 @@ a:hover {
 .card { text-align: center; }
 .card .card-title { text-align: center; }
 .card .overall { border-bottom: 1px solid #ccc; margin-bottom: 0.71429em; }
-.card .happy-score { background-color: #5da423; text-shadow: 0 2px 0 #360; margin: 20px 0 5px 8px; border-radius: 3px; padding: 5px 10px; font-size: 1.65em; color: #FFF; float: right; font-weight: bold; }
+.card .happy-score { background-color: #5da423; text-shadow: 0 2px 0 #360; margin: 20px 0 5px 8px; border-radius: 3px; padding: 5px 10px; font-size: 1.65em; color: #FFF; float: right; font-weight: normal; }
 .card .overall-score { font-size: 5.71429em; }
 
 li.rating-text { font-size: 15px; padding-bottom: 0; }
@@ -99,6 +100,7 @@ button, .button, .button:hover {
 	-webkit-transition: none;
 	-moz-transition: none;
 	transition: none;
+	border-color: none;
 }
 
 button.radius, .button.radius {
