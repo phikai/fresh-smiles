@@ -82,7 +82,7 @@ div.pitch { color: #FFF; }
 /* Colors of Happiness */
 .icon-smile, .icon-meh, .icon-frown { text-shadow: 0 1px 1px rgba(153, 153, 153, 0.8); }
 
-.icon-smile { color: #5da423; }
+.icon-smile { color: #5DA423; }
 
 .icon-meh { color: #D6D600; }
 
@@ -94,13 +94,13 @@ div.pitch { color: #FFF; }
 
 /* Button Styles */
 button, .button, .button:hover {
-	background-color: #456db8;
+	background-color: #456DB8;
 	-webkit-box-shadow: none;
 	box-shadow: none;
 	-webkit-transition: none;
 	-moz-transition: none;
 	transition: none;
-	border-color: none;
+	border-color: #456DB8;
 }
 
 button.radius, .button.radius {
