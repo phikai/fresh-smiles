@@ -42,7 +42,7 @@ if ( file_exists(__DIR__ . '/inc/analytics.php') ) {
 
 <div class="row logo">
 	<div class="large-12 columns">
-		<a title="The leader in WordPress Hosting" href="http://www.pressable.com"><img src="assets/img/logo-pressable-reverse-large.png" /></a>
+		<a title="The leader in WordPress Hosting" href="http://www.pressable.com"><img src="assets/img/logo.png" /></a>
 	</div>
 </div>
 
