@@ -19,11 +19,10 @@ mysql_connect(DB_HOST, DB_USER, DB_PASSWORD);
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Pressable Customer Happiness Report</title>
 <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css">
+<link rel='stylesheet' id='pressed-open-sans-css' href='//fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C700italic%2C400%2C300%2C700&#038;ver=3.8.3' type='text/css' media='all'/>
 <link rel="stylesheet" href="assets/css/foundation.css">
 <link rel="stylesheet" href="assets/css/layout.css">
 <script src="assets/js/custom.modernizr.js"></script>
-<script type="text/javascript" src="//use.typekit.net/myx0fpm.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <!--[if lt IE 9]>
 	<script type="text/javascript" src="assets/js/html5shiv.js"></script>
 	<script type="text/javascript" src="assets/js/respond.min.js"></script>

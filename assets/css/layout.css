@@ -1,8 +1,8 @@
 /** Smiles for ZippyKid Developed by Sixteenbit */
 body {
-	background: #244347;
-	color: #768388;
-	font-family: "faricy-new-web", Arial, sans-serif;
+	background: #456DB8;
+	color: #8d9aa5;
+	font-family: "Open Sans","Helvetica Neue",Helvetica,Helvetica,Arial,sans-serif;
     -webkit-font-smoothing: antialiased;
 	-webkit-transition-delay: 0s;
 	-webkit-transition-duration: 0.1s;
@@ -12,7 +12,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: "faricy-new-web", Arial, sans-serif;
-	color: #244347;
+	color: #324F88;
     -webkit-font-smoothing: antialiased;
 	-webkit-transition-delay: 0s;
 	-webkit-transition-duration: 0.1s;
@@ -23,8 +23,12 @@ h1, h2, h3, h4, h5, h6 {
 .site { max-width: 57.14286em; margin-top: 0.57143em; margin-left: auto; margin-right: auto; background: #f9f9f9; box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25), inset 0 -1px 0 rgba(0, 0, 0, 0.1); border-radius: 5px; }
 
 a {
-	color: #5a8d9f;
+	color: #5A8D9F;
 	font-weight: 700;
+}
+
+a:hover {
+	color: #3B5E9E;
 }
 
 .logo { margin-top: 10px; }
@@ -45,6 +49,10 @@ p { font-size: .9em; }
 p.quote { 
 	font-size: .9em;
 	padding: 0 15px;
+}
+
+.panel h1, .panel h2, .panel h3, .panel h4, .panel h5, .panel h6, .panel p {
+color: #324F88;
 }
 
 .meter { text-align: center; }
